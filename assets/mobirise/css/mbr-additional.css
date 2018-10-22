@@ -542,16 +542,6 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header2-2 .mbr-section-title {
-  color: #000000;
-}
-#header2-2 .mbr-section-text {
-  color: #000000;
-}
-#footer1-8 P {
-  text-align: right;
-  color: #000000;
-}
 
 
 #ext_menu-5 .hide-buttons .nav-btn {
@@ -784,4 +774,14 @@ h6,
 }
 #content1-z DIV {
   text-align: right;
+}
+#header2-2 .mbr-section-title {
+  color: #000000;
+}
+#header2-2 .mbr-section-text {
+  color: #000000;
+}
+#footer1-8 P {
+  text-align: right;
+  color: #000000;
 }
